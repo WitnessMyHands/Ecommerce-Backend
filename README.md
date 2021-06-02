@@ -2,7 +2,7 @@
 
 GitHub Repository Link: https://github.com/WitnessMyHands/Ecommerce-Backend
 
-[YouTube Video Link]()
+[YouTube Video Link](https://www.youtube.com/watch?v=iy7bFBIJqf8)
 
 ## Table of Contents
 
